@@ -113,3 +113,4 @@ The recognition accuracy depends on audio quality, background noise, and pronunc
 This demonstrates how AI can understand human speech and translate it into written form, bridging the gap between humans and machines.
 
 # Output 
+<img width="906" height="202" alt="Image" src="https://github.com/user-attachments/assets/01fbe14b-e984-4b3e-8656-905bd9036f46" />
